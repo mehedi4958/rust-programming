@@ -1,0 +1,1 @@
+/Users/mehedi/work/personal/rust-programming/variables_practice_problem_01/target/debug/varibles_practice_prblem_01: /Users/mehedi/work/personal/rust-programming/variables_practice_problem_01/src/main.rs
