@@ -1,26 +1,5 @@
-   0.003708167s  INFO prepare_target{force=false package_id=variables_practice_problem_02 v0.1.0 (/Users/mehedi/work/personal/rust-programming/variables_practice_problem_02) target="variables_practice_problem_02"}: cargo::core::compiler::fingerprint: fingerprint error for variables_practice_problem_02 v0.1.0 (/Users/mehedi/work/personal/rust-programming/variables_practice_problem_02)/Check { test: true }/TargetInner { name: "variables_practice_problem_02", doc: true, ..: with_path("/Users/mehedi/work/personal/rust-programming/variables_practice_problem_02/src/main.rs", Edition2024) }
-   0.003724834s  INFO prepare_target{force=false package_id=variables_practice_problem_02 v0.1.0 (/Users/mehedi/work/personal/rust-programming/variables_practice_problem_02) target="variables_practice_problem_02"}: cargo::core::compiler::fingerprint:     err: failed to read `/Users/mehedi/work/personal/rust-programming/variables_practice_problem_02/target/debug/.fingerprint/variables_practice_problem_02-c1c9dd8433a59346/test-bin-variables_practice_problem_02`
-
-Caused by:
-    No such file or directory (os error 2)
-
-Stack backtrace:
-   0: <std::backtrace::Backtrace>::create
-   1: <std::backtrace::Backtrace>::capture
-   2: cargo_util::paths::read_bytes
-   3: cargo_util::paths::read
-   4: cargo::core::compiler::fingerprint::_compare_old_fingerprint
-   5: cargo::core::compiler::fingerprint::prepare_target
-   6: cargo::core::compiler::compile
-   7: <cargo::core::compiler::build_runner::BuildRunner>::compile
-   8: cargo::ops::cargo_compile::compile_with_exec
-   9: cargo::ops::cargo_compile::compile
-  10: cargo::commands::check::exec
-  11: <cargo::cli::Exec>::exec
-  12: cargo::main
-  13: std::sys::backtrace::__rust_begin_short_backtrace::<fn(), ()>
-  14: std::rt::lang_start::<()>::{closure#0}
-  15: std::rt::lang_start_internal
-  16: _main
-    Checking variables_practice_problem_02 v0.1.0 (/Users/mehedi/work/personal/rust-programming/variables_practice_problem_02)
-    Finished `dev` profile [unoptimized + debuginfo] target(s) in 0.18s
+    Blocking waiting for file lock on package cache
+    Blocking waiting for file lock on package cache
+    Blocking waiting for file lock on package cache
+    Blocking waiting for file lock on shared package cache
+    Finished `dev` profile [unoptimized + debuginfo] target(s) in 0.00s
