@@ -1,0 +1,1 @@
+/Users/mehedi/work/personal/rust-programming/data_types_practice_problem_02/target/debug/data_types_practice_problem_02: /Users/mehedi/work/personal/rust-programming/data_types_practice_problem_02/src/main.rs
