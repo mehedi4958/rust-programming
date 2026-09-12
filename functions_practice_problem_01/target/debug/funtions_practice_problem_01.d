@@ -1,0 +1,1 @@
+/Users/mehedi/work/personal/rust-programming/functions_practice_problem_01/target/debug/funtions_practice_problem_01: /Users/mehedi/work/personal/rust-programming/functions_practice_problem_01/src/main.rs
