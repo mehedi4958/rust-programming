@@ -1,0 +1,1 @@
+/Users/mehedi/work/personal/rust-programming/variable_conventions_statics/target/debug/variable_conventions_statics: /Users/mehedi/work/personal/rust-programming/variable_conventions_statics/src/main.rs
