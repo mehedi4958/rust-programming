@@ -1,0 +1,4 @@
+    Checking error_messages_and_codes v0.1.0 (/Users/mehedi/work/personal/rust-programming/error_messages_and_codes)
+error: could not compile `error_messages_and_codes` (bin "error_messages_and_codes" test) due to 1 previous error
+warning: build failed, waiting for other jobs to finish...
+error: could not compile `error_messages_and_codes` (bin "error_messages_and_codes") due to 1 previous error
